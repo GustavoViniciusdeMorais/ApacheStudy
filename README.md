@@ -37,5 +37,5 @@ apache2ctl configtest
 
 ### Reload apache
 ```sh
-service apache2 reload
+service apache2 restart
 ```
