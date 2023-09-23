@@ -1,4 +1,5 @@
-FROM ubuntu:jammy
+# FROM ubuntu:jammy
+FROM gustavovinicius/guspache:latest
 
 RUN apt update
 

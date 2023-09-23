@@ -2,7 +2,10 @@
 
 Create by Gustavo Morais
 
+https://hub.docker.com/r/gustavovinicius/guspache
+
 ```sh
+docker pull gustavovinicius/guspache
 ```
 
 ### Install
